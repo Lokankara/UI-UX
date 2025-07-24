@@ -1,0 +1,92 @@
+Links to CodePen Exercise Files
+
+All links are located in the collection:
+https://codepen.io/collection/kNwYMb
+
+01-04 Compound Selectors
+https://codepen.io/jen4web/pen/ZwgRzJ
+
+02-02 Descendant Selectors
+https://codepen.io/jen4web/pen/daxdvE
+
+02-03 Parent-Child Selectors
+https://codepen.io/jen4web/pen/VgoXGW
+
+02-04 Adjacent and General Sibling Selectors
+https://codepen.io/jen4web/pen/KJORzK
+
+03-01 Attribute Selectors
+https://codepen.io/jen4web/pen/GzVGEJ
+
+03-02 Exact and Partial Attribute Selectors
+https://codepen.io/jen4web/pen/RvXJJW
+
+03-03 Beginning, Ending, and Arbitrary Substring Attribute Selectors
+https://codepen.io/jen4web/pen/wNVXRd
+
+03-04 Cool Attribute Selector Tricks
+https://codepen.io/jen4web/pen/qgeKzW
+
+04-01 The :only Selectors:  :only-child, :only-of-type
+https://codepen.io/jen4web/pen/abYvpQq
+
+04-02: :first-child, :first-of-type, :last-child, :last-of-type
+https://codepen.io/jen4web/pen/OJvyWrL
+
+04-03: :nth-child, :nth-of-type, :nth-last-child, :nth-last-of-type
+https://codepen.io/jen4web/pen/gOeagZV
+
+04-04 Understanding :root and :empty
+https://codepen.io/jen4web/pen/KKodaJN
+
+05-01 Basic link states -- :link, :visited, :hover, :active
+https://codepen.io/jen4web/pen/eYMpgXE
+End state: https://codepen.io/jen4web/pen/VwXeMBm
+
+05-02 :any-link for combining link states
+https://codepen.io/jen4web/pen/NWYGvNR
+End state: https://codepen.io/jen4web/pen/wvmMrYj
+
+05-03 :target
+https://codepen.io/jen4web/pen/KKodvNq
+
+05-04 :focus, :focus-within
+https://codepen.io/jen4web/pen/xxWwLrm
+End state: https://codepen.io/jen4web/pen/jOzWGRX
+
+06-01: Form controls: :enabled and :disabled, :required and :optional
+https://codepen.io/jen4web/pen/XWEmooy
+End state: https://codepen.io/jen4web/pen/vYRLWra
+
+06-02: Form controls: :read-only and :read-write
+https://codepen.io/jen4web/pen/gOeaqRx
+End state: https://codepen.io/jen4web/pen/ZExQaVp
+
+06-03: Form control states: :checked, :default, :indeterminate
+https://codepen.io/jen4web/pen/YzaygYj
+End state: https://codepen.io/jen4web/pen/xxWZPop
+
+06-04: Text fields: :autofill, :placeholder-shown
+https://codepen.io/jen4web/pen/MWVadwP
+End state: https://codepen.io/jen4web/pen/GRxoyjb
+
+06-05: Error checking: :valid, :invalid, :in-range, :out-of-range
+https://codepen.io/jen4web/pen/abYvgRV
+End state: https://codepen.io/jen4web/pen/PoRZEOq
+
+07-01: Comparing :is() and :where()
+https://codepen.io/jen4web/pen/bGvEbov
+End state: https://codepen.io/jen4web/pen/zYWrpLL
+
+07-02: Understanding :not
+https://codepen.io/jen4web/pen/gOeagEV
+
+07-03: :has()
+https://codepen.io/jen4web/pen/LYdGWma
+End state: https://codepen.io/jen4web/pen/gOePoyr
+
+07-04: Pseudo-elements: ::before, ::after, ::first-line, ::first-letter
+https://codepen.io/jen4web/pen/mdxeRgZ
+
+07-05: *, the universal selector
+https://codepen.io/jen4web/pen/NWYGdVN
